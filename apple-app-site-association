@@ -1,0 +1,19 @@
+{
+    "applinks":{
+        "apps":[
+
+        ],
+        "details":[
+            {
+                "appID": "ZBPP83795K.com.dubizzle.DubizzleHorizontal",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "ZBPP83795K.com.dubizzle.DubizzleHorizontal",
+                "paths": [ "NOT /motors/sell-my-car"]
+            }
+        ]
+    }
+}
