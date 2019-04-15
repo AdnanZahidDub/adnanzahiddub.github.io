@@ -7,12 +7,9 @@
             {
                 "appID": "ZBPP83795K.com.dubizzle.DubizzleHorizontal",
                 "paths": [
-                    "*"
+                    "*",
+                    "NOT /motors/sell-my-car"
                 ]
-            },
-            {
-                "appID": "ZBPP83795K.com.dubizzle.DubizzleHorizontal",
-                "paths": [ "NOT /motors/sell-my-car"]
             }
         ]
     }
